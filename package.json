@@ -1,0 +1,26 @@
+{
+  "name": "svg-generator-app",
+  "version": "1.0.0",
+  "description": "An application to generate an SVG Logo",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "SVG",
+    "Logo",
+    "Generator"
+  ],
+  "author": "jtschams",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
