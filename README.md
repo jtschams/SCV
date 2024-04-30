@@ -28,7 +28,7 @@ Run index.js via node and follow the prompts
 
 ## Links
 
-[Github Repo](https://github.com/jtschams/)
+[Github Repo](https://github.com/jtschams/svg-generator-app/)
 
 [Github Author](https://github.com/jtschams)
 
